@@ -19,6 +19,13 @@
         Exercise7_6_4.Task();
         Exercise7_6_12.Task();
         Exercise7_6_14.Task();
+        
+        Exercise8_3_3 exercise8_3_3 = new();
+        Exercise8_3_4 exercise8_3_4 = new(2, 5, 6, 7, 2, 10, 22, 2);
+        Exercise8_3_5 exercise8_3_5 = new();
+        Exercise8_3_8 exercise8_3_8 = new(4);
+        Exercise8_3_9 exercise8_3_9 = new();
+
     }
 
 }
