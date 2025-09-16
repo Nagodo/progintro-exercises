@@ -15,6 +15,10 @@
         Exercise6_3_6.Task();
         Exercise6_3_9.Task();
         Exercise6_3_10.Task();
+
+        Exercise7_6_4.Task();
+        Exercise7_6_12.Task();
+        Exercise7_6_14.Task();
     }
 
 }
