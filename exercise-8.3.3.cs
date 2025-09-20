@@ -19,23 +19,29 @@
         PrintSoduku(puzzle);
     }
 
-    private void PrintSoduku(int[][] soduku) {
+    void PrintSoduku(int[][] soduku) {
 
         PrintHorizontalLine();
 
         for (int y = 0; y < soduku.Length; y++) {
             for (int x = 0; x < soduku[y].Length; x++) {
+
                 if (x % 3 == 0 && x != 0) {
-                    Console.Write("│");
+                    Console.Write("|");
                 }
+
                 Console.Write($"{soduku[y][x]} ");
             }
 
             Console.WriteLine("");
 
-            if ((y+1) % 3 == 0) {
+            if ((y + 1) % 3 == 0) {
                 PrintHorizontalLine();
             }
+
+            // if ((y+1) % 3 == 0) {
+            //     PrintHorizontalLine();
+            // }
 
         }
         
