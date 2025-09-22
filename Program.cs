@@ -26,8 +26,8 @@
         // Exercise8_3_8 exercise8_3_8 = new(4);
         // Exercise8_3_9 exercise8_3_9 = new();
         // Exercise9_1_1 exercise9_1_1 = new();
-        // Exercise9_1_2 exercise9_1_2 = new();
-        Exercise9_1_3 exercise9_1_3 = new();
+        Exercise9_1_2 exercise9_1_2 = new();
+        // Exercise9_1_3 exercise9_1_3 = new();
     }
 
 }

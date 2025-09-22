@@ -7,11 +7,12 @@
         Console.WriteLine("Exercise 9.1.2");
 
         while (true) {   
-            int accountId = GetAccountNumber();
-            if (accountId == -1) {
-                Console.WriteLine("Fejl i input");
-            } else {
+            try {
+                int accountId = GetAccountNumber();
                 PrintAccountState(accountId);
+
+            } catch (Exception) {
+                Console.WriteLine("Fejl i input");
             }
         }
     }
@@ -23,10 +24,14 @@
             return number;
         }
 
-        return -1;
+        throw new Exception();
     }
 
     private void PrintAccountState(int accountId) {
+        if (accountId < 0) {
+            Console.WriteLine("AccountId skal være positivt");
+            return;
+        }
         if (accountId > accounts.Length - 1) {
             Console.WriteLine("AccountId er større end accounts array");
         } else {
