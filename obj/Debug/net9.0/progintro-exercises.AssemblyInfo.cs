@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progintro-exercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025ff90da7b57690620ca22885930824b99c59a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2946583dba47fa636c28b0adf8f10d7075b9f765")]
 [assembly: System.Reflection.AssemblyProductAttribute("progintro-exercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progintro-exercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

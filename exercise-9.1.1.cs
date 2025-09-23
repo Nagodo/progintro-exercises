@@ -10,8 +10,8 @@
         for (int i = 0; i < iterationer; i++) {
             try {
                 array[i]++;
-            } catch (IndexOutOfRangeException exception) {
-                Console.WriteLine(exception);
+            } catch (IndexOutOfRangeException) {
+                Console.WriteLine("Fejl ved index: " + i);
             }
         }
 

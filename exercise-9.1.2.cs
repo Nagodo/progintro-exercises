@@ -26,12 +26,14 @@
 
         throw new Exception();
     }
-
+  
     private void PrintAccountState(int accountId) {
+
         if (accountId < 0) {
             Console.WriteLine("AccountId skal være positivt");
             return;
         }
+
         if (accountId > accounts.Length - 1) {
             Console.WriteLine("AccountId er større end accounts array");
         } else {

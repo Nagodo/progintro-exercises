@@ -26,7 +26,7 @@
 
     private int GetGrade(int courseId) {
         int grade = grades[courseId];
-
+  
         if (grade >= 2) {
             return grade;
         } else {
