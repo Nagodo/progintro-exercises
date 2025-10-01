@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\Inventory\bin\Debug\net9.0\Inventory.exe
+C:\Github\progintro-exercises\Inventory\bin\Debug\net9.0\Inventory.deps.json
+C:\Github\progintro-exercises\Inventory\bin\Debug\net9.0\Inventory.runtimeconfig.json
+C:\Github\progintro-exercises\Inventory\bin\Debug\net9.0\Inventory.dll
+C:\Github\progintro-exercises\Inventory\bin\Debug\net9.0\Inventory.pdb
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.AssemblyInfo.cs
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.sourcelink.json
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.dll
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\refint\Inventory.dll
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.pdb
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\Inventory.genruntimeconfig.cache
+C:\Github\progintro-exercises\Inventory\obj\Debug\net9.0\ref\Inventory.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\progintro-exercises\\progintro-exercises.csproj": {}
+    "C:\\Github\\progintro-exercises\\Customer\\progintro-exercises.csproj": {}
   },
   "projects": {
-    "C:\\Github\\progintro-exercises\\progintro-exercises.csproj": {
+    "C:\\Github\\progintro-exercises\\Customer\\progintro-exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\progintro-exercises\\progintro-exercises.csproj",
+        "projectUniqueName": "C:\\Github\\progintro-exercises\\Customer\\progintro-exercises.csproj",
         "projectName": "progintro-exercises",
-        "projectPath": "C:\\Github\\progintro-exercises\\progintro-exercises.csproj",
+        "projectPath": "C:\\Github\\progintro-exercises\\Customer\\progintro-exercises.csproj",
         "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\progintro-exercises\\obj\\",
+        "outputPath": "C:\\Github\\progintro-exercises\\Customer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
