@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\Kittens\bin\Debug\net9.0\Kittens.exe
+C:\Github\progintro-exercises\Kittens\bin\Debug\net9.0\Kittens.deps.json
+C:\Github\progintro-exercises\Kittens\bin\Debug\net9.0\Kittens.runtimeconfig.json
+C:\Github\progintro-exercises\Kittens\bin\Debug\net9.0\Kittens.dll
+C:\Github\progintro-exercises\Kittens\bin\Debug\net9.0\Kittens.pdb
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.AssemblyInfo.cs
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.sourcelink.json
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.dll
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\refint\Kittens.dll
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.pdb
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\Kittens.genruntimeconfig.cache
+C:\Github\progintro-exercises\Kittens\obj\Debug\net9.0\ref\Kittens.dll

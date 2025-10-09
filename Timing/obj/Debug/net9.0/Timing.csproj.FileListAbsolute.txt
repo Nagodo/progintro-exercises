@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\Timing\bin\Debug\net9.0\Timing.exe
+C:\Github\progintro-exercises\Timing\bin\Debug\net9.0\Timing.deps.json
+C:\Github\progintro-exercises\Timing\bin\Debug\net9.0\Timing.runtimeconfig.json
+C:\Github\progintro-exercises\Timing\bin\Debug\net9.0\Timing.dll
+C:\Github\progintro-exercises\Timing\bin\Debug\net9.0\Timing.pdb
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.AssemblyInfo.cs
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.sourcelink.json
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.dll
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\refint\Timing.dll
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.pdb
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\Timing.genruntimeconfig.cache
+C:\Github\progintro-exercises\Timing\obj\Debug\net9.0\ref\Timing.dll
