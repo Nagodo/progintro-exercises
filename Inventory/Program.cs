@@ -3,8 +3,9 @@
 
         Inventory inventory = new();
 
-        foreach (Item item in inventory.foodItems) {
-            Console.WriteLine(item.ToString());
+        foreach (Item item in inventory.items) {
+            // Console.WriteLine(item.GetPrice());
+           
         }
 
     }

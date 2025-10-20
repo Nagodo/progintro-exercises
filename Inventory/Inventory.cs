@@ -1,17 +1,18 @@
 public class Inventory {
 
-    public Item[] foodItems;
+    public Item[] items;
 
     public Inventory() {
 
-        foodItems = new Item[20];
+        items = new Item[20];
 
         for (int i = 0; i < 10; i++) {
 
             string itemName = "Item" + i;
             double price = 6.9 * i;
 
-            foodItems[i] = new FoodItem(itemName, price);
+            FoodItem foodItem = new FoodItem(itemName, price);
+            AddItem(foodItem);
         }
 
         for (int i = 0; i < 10; i++) {
@@ -20,7 +21,43 @@ public class Inventory {
             double price = 6.9 * i;
             string[] materials = {"Lort", "Jern"};
 
-            foodItems[i + 10] = new NonFoodItem(itemName, price, materials);
+            NonFoodItem nonFoodItem = new NonFoodItem(itemName, price, materials);
+            AddItem(nonFoodItem);
+        }
+
+        // Console.WriteLine(GetInventoryValue());
+        // PrintInventory();
+    }
+
+    public void AddItem(Item item) {
+        Console.WriteLine(item.GetPrice());
+        for (int i = 0; i < items.Length; i++) {
+            if (items[i] == null) {
+                items[i] = item;
+            }
+        }
+    }
+
+    public void RemoveItem(Item item) {
+        for (int i = 0; i < items.Length; i++) {
+            if (items[i].Equals(item)) {
+                items[i] = null;
+            }
+        }
+    }
+
+    public double GetInventoryValue() {
+        double priceSum = 0;
+        for (int i = 0; i < items.Length; i++) {
+            priceSum += items[i].GetPrice();
+        }
+
+        return priceSum;
+    }
+
+    public void PrintInventory() {
+        for (int i = 0; i < items.Length; i++) {
+            Console.WriteLine($"Item: {items[i].GetName()} Pris: {items[i].GetPrice()}");
         }
     }
 

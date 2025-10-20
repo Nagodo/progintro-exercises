@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\Operator\bin\Debug\net9.0\Operator.exe
+C:\Github\progintro-exercises\Operator\bin\Debug\net9.0\Operator.deps.json
+C:\Github\progintro-exercises\Operator\bin\Debug\net9.0\Operator.runtimeconfig.json
+C:\Github\progintro-exercises\Operator\bin\Debug\net9.0\Operator.dll
+C:\Github\progintro-exercises\Operator\bin\Debug\net9.0\Operator.pdb
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.AssemblyInfo.cs
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.sourcelink.json
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.dll
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\refint\Operator.dll
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.pdb
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\Operator.genruntimeconfig.cache
+C:\Github\progintro-exercises\Operator\obj\Debug\net9.0\ref\Operator.dll
