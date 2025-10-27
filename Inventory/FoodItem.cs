@@ -9,6 +9,12 @@ public class FoodItem : Item {
         return expiresAt;
     }
 
+    public override bool IsExpired()
+    {
+        float diff = DateTime.Now.Day - expiresAt.Day;
+        return (diff < 0);
+    }
+
     public override string ToString() {
         return $"FoodItem: {name} Pris: {price} Udløber den: {expiresAt.ToShortDateString()}";
     }

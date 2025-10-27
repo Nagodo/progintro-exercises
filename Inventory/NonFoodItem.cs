@@ -6,6 +6,8 @@ public class NonFoodItem : Item {
         this.materials = materials;
     }
 
+    public override bool IsExpired() { return false; }
+
     public override string ToString() {
 
         string mats = string.Join(",", materials);

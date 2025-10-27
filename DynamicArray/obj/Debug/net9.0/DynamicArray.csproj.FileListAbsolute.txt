@@ -1,0 +1,15 @@
+c:\Github\progintro-exercises\DynamicArray\bin\Debug\net9.0\DynamicArray.exe
+C:\Github\progintro-exercises\DynamicArray\bin\Debug\net9.0\DynamicArray.deps.json
+C:\Github\progintro-exercises\DynamicArray\bin\Debug\net9.0\DynamicArray.runtimeconfig.json
+c:\Github\progintro-exercises\DynamicArray\bin\Debug\net9.0\DynamicArray.dll
+c:\Github\progintro-exercises\DynamicArray\bin\Debug\net9.0\DynamicArray.pdb
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.AssemblyInfoInputs.cache
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.AssemblyInfo.cs
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.csproj.CoreCompileInputs.cache
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.sourcelink.json
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.dll
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\refint\DynamicArray.dll
+c:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.pdb
+C:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\DynamicArray.genruntimeconfig.cache
+C:\Github\progintro-exercises\DynamicArray\obj\Debug\net9.0\ref\DynamicArray.dll

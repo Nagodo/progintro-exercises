@@ -1,4 +1,4 @@
-public class Item : IEquatable<Item> {
+public abstract class Item : IEquatable<Item>, IExpireable {
 
     protected double price;
     protected string name;
@@ -15,6 +15,8 @@ public class Item : IEquatable<Item> {
     public double GetPrice() {
         return price;
     }
+
+    public abstract bool IsExpired();
 
     public override bool Equals(object? obj) {
         if (obj is not Item) return false;

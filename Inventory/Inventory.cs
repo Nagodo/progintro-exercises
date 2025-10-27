@@ -25,6 +25,8 @@ public class Inventory {
             AddItem(nonFoodItem);
         }
 
+        Test1();
+
         // Console.WriteLine(GetInventoryValue());
         // PrintInventory();
     }
@@ -58,6 +60,19 @@ public class Inventory {
     public void PrintInventory() {
         for (int i = 0; i < items.Length; i++) {
             Console.WriteLine($"Item: {items[i].GetName()} Pris: {items[i].GetPrice()}");
+        }
+    }
+
+    public void Test1()
+    {
+        for (int i = 0; i < items.Length; i++)
+        {
+            Item item = items[i];
+        }
+
+        foreach (Item item in items)
+        {
+            
         }
     }
 
