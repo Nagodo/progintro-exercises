@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\CPR\bin\Debug\net9.0\CPR.exe
+C:\Github\progintro-exercises\CPR\bin\Debug\net9.0\CPR.deps.json
+C:\Github\progintro-exercises\CPR\bin\Debug\net9.0\CPR.runtimeconfig.json
+C:\Github\progintro-exercises\CPR\bin\Debug\net9.0\CPR.dll
+C:\Github\progintro-exercises\CPR\bin\Debug\net9.0\CPR.pdb
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.AssemblyInfo.cs
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.sourcelink.json
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.dll
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\refint\CPR.dll
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.pdb
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\CPR.genruntimeconfig.cache
+C:\Github\progintro-exercises\CPR\obj\Debug\net9.0\ref\CPR.dll
