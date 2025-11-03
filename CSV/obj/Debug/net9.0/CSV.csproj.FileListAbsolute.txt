@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\CSV\bin\Debug\net9.0\CSV.exe
+C:\Github\progintro-exercises\CSV\bin\Debug\net9.0\CSV.deps.json
+C:\Github\progintro-exercises\CSV\bin\Debug\net9.0\CSV.runtimeconfig.json
+C:\Github\progintro-exercises\CSV\bin\Debug\net9.0\CSV.dll
+C:\Github\progintro-exercises\CSV\bin\Debug\net9.0\CSV.pdb
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.AssemblyInfo.cs
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.sourcelink.json
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.dll
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\refint\CSV.dll
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.pdb
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\CSV.genruntimeconfig.cache
+C:\Github\progintro-exercises\CSV\obj\Debug\net9.0\ref\CSV.dll
