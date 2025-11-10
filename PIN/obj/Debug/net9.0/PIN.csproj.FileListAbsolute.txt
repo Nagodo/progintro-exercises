@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\PIN\bin\Debug\net9.0\PIN.exe
+C:\Github\progintro-exercises\PIN\bin\Debug\net9.0\PIN.deps.json
+C:\Github\progintro-exercises\PIN\bin\Debug\net9.0\PIN.runtimeconfig.json
+C:\Github\progintro-exercises\PIN\bin\Debug\net9.0\PIN.dll
+C:\Github\progintro-exercises\PIN\bin\Debug\net9.0\PIN.pdb
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.AssemblyInfo.cs
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.sourcelink.json
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.dll
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\refint\PIN.dll
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.pdb
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\PIN.genruntimeconfig.cache
+C:\Github\progintro-exercises\PIN\obj\Debug\net9.0\ref\PIN.dll

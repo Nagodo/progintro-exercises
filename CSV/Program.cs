@@ -14,6 +14,16 @@ class Matrix {
 
     public Matrix() {
         data = ReadSaveFile(FILENAME);
+
+        foreach (double[] x in data)
+        {
+            
+        }
+
+        for (int i = 0; i < data.Length; i++)
+        {
+            double[] x = data[i];
+        }
     }
 
     public Matrix(int sizeX, int sizeY) {
@@ -72,9 +82,7 @@ class Matrix {
 
                     data[lineAmount++] = lineValues;
 
-                    Console.WriteLine("Line" + line);
                 } while (line != null);
-                
             
             }
            
