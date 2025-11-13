@@ -1,0 +1,15 @@
+C:\Github\progintro-exercises\Debug\bin\Debug\net9.0\Debug.exe
+C:\Github\progintro-exercises\Debug\bin\Debug\net9.0\Debug.deps.json
+C:\Github\progintro-exercises\Debug\bin\Debug\net9.0\Debug.runtimeconfig.json
+C:\Github\progintro-exercises\Debug\bin\Debug\net9.0\Debug.dll
+C:\Github\progintro-exercises\Debug\bin\Debug\net9.0\Debug.pdb
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.AssemblyInfoInputs.cache
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.AssemblyInfo.cs
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.csproj.CoreCompileInputs.cache
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.sourcelink.json
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.dll
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\refint\Debug.dll
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.pdb
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\Debug.genruntimeconfig.cache
+C:\Github\progintro-exercises\Debug\obj\Debug\net9.0\ref\Debug.dll
